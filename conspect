@@ -1,1 +1,11 @@
 #!/usr/bin/env python
+
+def main():
+    print ("HW")
+
+if __name__ == "__main__" :
+    import curses
+    main()
+
+else:
+    print("This is executable program file.\nDo not use this file as module.")
