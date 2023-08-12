@@ -1,3 +1,5 @@
 devdocs/**
 books/**
 __pycache__/**
+conspect/__pycache__/**
+conspect/*.swp
